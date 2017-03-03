@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 //
 // Digital Potentiometer 1-100k with OLED display
 //
